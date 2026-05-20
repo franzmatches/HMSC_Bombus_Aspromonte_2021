@@ -1,5 +1,5 @@
 # HMSC_Bombus_Aspromonte_2021
-Repository for Data and code for analysis of paper "Investigating host–parasite associations in cuckoo bumblebees using joint species distribution models" by Cerini et al.
+Repository for Data and code for analysis of paper "Investigating host–parasite associations in cuckoo bumblebees using joint species distribution models".
 
 Folder "Data" contains the bumblebees dataset, the sampling sites environmental variables and the phylogenetic tree.
 
