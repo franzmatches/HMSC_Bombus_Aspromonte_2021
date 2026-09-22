@@ -1,0 +1,55 @@
+.DS_Store
+**/.DS_Store
+*.rds
+*.RData
+*.tif
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.cpg
+Results/Figures paper/Official/hmsc_*
+Results/Figures paper/[^O]*
+Results/HMSC_CV*
+Results/PA_traps*
+Results/Sites_variables_chm*
+Results/apo_*
+Results/hlsc_*
+Results/hmsc_*
+Results/m*_beta_plot*
+Results/model_comparison*
+Results/predY*
+Code/CLEAN_*
+Code/HMSC_*
+Code/Map.R
+Code/Script_*
+Code/Siti_*
+Code/Wrangling_*
+Code/temperature_*
+Code/Code_for_Github_paper/.DS_Store
+Data/CLC_2018_Italy/
+Data/Land Cover Italy*/
+Data/Databaseufficiale*
+Data/Dataset2021_definitivo*
+Data/Dataset_final_bombus2021_definitivo*
+Data/Malaise*
+Data/PN Aspromonte*
+Data/Sites_variables_final_clc.xlsx
+Data/Trapdatabase*
+Data/bee_mean_dataset*
+Data/bombus_K80*
+Data/bombus_phylo*
+Data/dataset_export*
+Data/logger_dati*
+Data/mediamensile*
+Data/plant_pollinator*
+Data/retdatabase*
+Data/temperature_mean*
+Data/ws_pred*
+Paper_Bombi_hmsc/
+Figure_2_Species_in_sites_ab.png
+Bombi_phenology_metodi_Elisa_FC.docx
+*.Rproj.user/
+.Rhistory
